@@ -54,9 +54,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
   username               :
   app_id                 :
   publisher              :
