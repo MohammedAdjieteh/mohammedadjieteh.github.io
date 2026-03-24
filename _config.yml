@@ -23,8 +23,7 @@ repository               : "MohammedAdjieteh/mohammedadjieteh.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Mohammed Adjei Adjieteh"
-  pronouns         : "he/him"  
+  name             : "Mohammed Adjei Adjieteh" 
   bio              : "I am an Associate of the Society of Actuaries and an Assistant Professor at Appalachian State University"
   location         : "USA"
   email            : "adjietehma@appstate.edu" 
