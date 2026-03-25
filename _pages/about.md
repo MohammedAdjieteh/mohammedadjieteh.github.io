@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. 
+Welcome to my academic website.
+
+I am Mohammed Adjei Adjieteh, an Assistant Professor at Appalachian State University and an Associate of the Society of Actuaries (ASA). My research interests are Actuarial Science, Robust Statistics and Artificial Intelligence where I develop and improve statistical estimation methods for estimating parameters, model uncertainty and improving decision-making under risk.
+
+Beyond research, I am committed to teaching, mentorship, and contributing to the broader academic and professional community. I welcome opportunities for collaboration and interdisciplinary work. Thank you for visiting my website. Please feel free to reach out for collaborations, discussions, or further inquiries. 
