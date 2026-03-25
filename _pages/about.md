@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website.
+Welcome to my Academic Website.
 
 I am Mohammed Adjei Adjieteh, an Assistant Professor at Appalachian State University and an Associate of the Society of Actuaries (ASA). My research interests are Actuarial Science, Robust Statistics and Artificial Intelligence where I develop and improve statistical estimation methods for estimating parameters, model uncertainty and improving decision-making under risk.
 
