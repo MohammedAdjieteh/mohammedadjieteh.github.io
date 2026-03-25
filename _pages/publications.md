@@ -8,11 +8,8 @@ author_profile: true
 ## Journal Articles
 
 ---
-
-**Adjieteh, M., & Brazauskas, V. (2025).**  
-Quantile Least Squares: A Flexible Approach for Robust Estimation and Validation of Location-Scale Families.  
-Statistics and Computing, 35, Article 106.  
-[📄 Paper](https://link.springer.com/article/10.1007/s11222-025-10626-6)  
+**Adjieteh, M., & Brazauskas, V. (2025).** Quantile Least Squares: A Flexible Approach for Robust Estimation and Validation of Location-Scale Families.  
+*Statistics and Computing, 35*, Article 106. [View article](https://link.springer.com/article/10.1007/s11222-025-10626-6)  
 
 ---
 
